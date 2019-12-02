@@ -1,10 +1,3 @@
-/*Serkan Can Caglayan 18120205021
- *
-*Semih Demir 18120205005
-*Egemen Yapucu 18120205027
-*Gorev Dagilimi:
-*online platformlar ve irl'de bulusup hep beraber yazdik.
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
